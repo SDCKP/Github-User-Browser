@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github User Browser</string>
+    <string name="repositories">Repositories</string>
+</resources>
